@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "PROVANT",
+  "base_artist": "SawanoHiroyuki[nZk]",
+  "createdAt": "2026-02-19T13:15:45.283743Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PROVANT",
+      "artist": "SawanoHiroyuki[nZk]:Jean-Ken Johnny & TAKUMA",
+      "has_synced": false,
+      "path": "select/pl_01_PROVANT_SawanoHiroyuki[nZk]_Jean-Ken_Johnny_&_TAKUMA.txt"
+    }
+  ]
+}
